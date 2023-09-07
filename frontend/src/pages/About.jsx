@@ -1,6 +1,6 @@
 import React from 'react'
 
-function About() {
+const About = () => {
   return (
     <div className="box mt-6">
       <div className="columns is-centered is-mobile">

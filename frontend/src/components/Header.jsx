@@ -29,8 +29,8 @@ const Header = () => {
       <div className="navbar-menu" id="navbarMenu">
         <div className="navbar-end">
           <Link to="/">Home</Link>
-
           <Link to="/about">About</Link>
+          <Link to="/contact">Contact</Link>
         </div>
         <div className="navbar-item">
           <div className="buttons">
